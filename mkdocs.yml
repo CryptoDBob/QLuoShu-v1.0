@@ -1,0 +1,21 @@
+site_name: QLuoShu
+
+
+theme: readthedocs
+
+nav:
+  - 基本运算:
+      - 常量模运算: BasicOperation/常量模运算/常量模运算.md
+      - 变量模运算: BasicOperation/变量模运算/变量模运算.md
+  - ECDLP:
+      - 介绍: ECDLP/介绍/介绍.md
+      - C_ECDLP: ECDLP/C_ECDLP/C_ECDLP.md
+      - F2k_ECDLP: ECDLP/F2k_ECDLP/F2k_ECDLP.md
+  - EllipticCurve:
+      - 介绍: EllipticCurve/介绍/介绍.md
+      - 基本运算: EllipticCurve/基本运算/基本运算.md
+  - ShorAlgorithm:
+      - 介绍: ShorAlgorithm/介绍/介绍.md
+      - SemiShor算法计算ECDLP: ShorAlgorithm/SemiShor算法计算ECDLP/SemiShor算法计算ECDLP.md
+      - Shor算法求解椭圆曲线离散对数: ShorAlgorithm/Shor算法求解椭圆曲线离散对数/Shor算法求解椭圆曲线离散对数.md
+      - Shor算法计算ECDLP的函数（p=7）: ShorAlgorithm/Shor算法计算ECDLP的函数（p=7）/Shor算法计算ECDLP的函数（p=7）.md
